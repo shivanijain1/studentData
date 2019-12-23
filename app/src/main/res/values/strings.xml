@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">studentData</string>
+    <string name="enter_marks">enter marks</string>
+    <string name="enter_surname">enter surname</string>
+    <string name="enter_name">enter name</string>
+    <string name="surname">surname</string>
+    <string name="marks">marks</string>
+    <string name="name">Name</string>
+    <string name="add">add</string>
+</resources>
